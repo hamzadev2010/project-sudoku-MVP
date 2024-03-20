@@ -3,8 +3,10 @@ Sudoku Solver Application is a desktop application developed using Python in Vis
 
 **Behind Sudoku solver application**
 Ever since I was a child, I've been fascinated by puzzles and logic games. I remember flipping through magazines and stumbling upon Sudoku puzzles, marveling at the intricate patterns and the challenge they presented. However, as much as I enjoyed attempting to solve them, there were times when I found myself stuck, unable to progress.
+![relaxation-sudoku-tea-puzzle](https://github.com/hamzadev2010/project-sudoku-MVP/assets/132610381/9682f6e1-58f0-458b-9c68-0438671a62ca)
 
 Determined to overcome this challenge, I delved deeper into the world of Sudoku, exploring different solving techniques and strategies. As I honed my skills, I became increasingly intrigued by the underlying mathematics and algorithms behind these puzzles. I realized that solving Sudoku wasn't just about filling in numbers; it was about employing logic and reasoning to uncover hidden patterns and possibilities.
+![sudoku-1510710_1280](https://github.com/hamzadev2010/project-sudoku-MVP/assets/132610381/94ca91ea-a53d-4c80-8361-258572aed1ce)
 
 This fascination eventually led me to embark on a journey to develop my own Sudoku Solver Application. Drawing upon my passion for puzzles and my background in programming, I set out to create a tool that would not only solve Sudoku puzzles but also provide users with a seamless and intuitive solving experience.
 
@@ -69,6 +71,9 @@ Incorporating the Z3 solver library in Python introduced complexities in code in
 
 **User Interface Design:**
 A basic user interface was implemented for easy understanding and accessibility.
+![sudoko screen ](https://github.com/hamzadev2010/project-sudoku-MVP/assets/132610381/40cc31d3-b884-409a-b63d-1a02821dbd1f)
+![secreenshoot task](https://github.com/hamzadev2010/project-sudoku-MVP/assets/132610381/928097cb-74d4-4d07-bddc-7f0df96120f7)
+
 
 **Conclusion:**
 Sudoku Solver Application offers users a reliable solution for tackling Sudoku puzzles effortlessly. By leveraging advanced algorithms and the Z3 solver library, the application provides quick and accurate solutions while maintaining a user-friendly interface. Moving forward, continuous enhancements and community contributions will further enrich the functionality and usability of the application.
