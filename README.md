@@ -1,9 +1,14 @@
 **Introduction:**
 Sudoku Solver Application is a desktop application developed using Python in Visual Studio Code. It provides users with a seamless experience in solving Sudoku puzzles through a combination of advanced algorithms and a user-friendly interface. This article outlines the development process, challenges faced, and the utilization of the Z3 solver library in Python to enhance the solving algorithm.
 
-**Project Blog Article:** https://medium.com/@hamzachanik/introduction-5f36e0cac73b
-**youtube link:** https://www.youtube.com/watch?v=FWH61zcjkSY&t=1s
-**Author LinkedIn:** https://www.linkedin.com/in/hamza-chankour-10ba62278/
+**Project Blog Article:** 
+https://medium.com/@hamzachanik/introduction-5f36e0cac73b
+
+**youtube link:** 
+https://www.youtube.com/watch?v=FWH61zcjkSY&t=1s
+
+**Author LinkedIn:** 
+https://www.linkedin.com/in/hamza-chankour-10ba62278/
 
 **Installation:**
 Users can run Sudoku Solver Application by following these simple steps:
