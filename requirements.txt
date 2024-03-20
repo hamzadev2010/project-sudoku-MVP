@@ -1,0 +1,9 @@
+this installation is required for those who wanna run it in python
+1. Python installed on your system.
+2. Development environment like Visual Studio Code (optional but recommended).
+
+pip install z3
+pip install itertools
+pip install tkinter
+
+then run it python sudoku_solver_app.py
